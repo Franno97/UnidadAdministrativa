@@ -1,0 +1,22 @@
+~
+uD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\AdministrativeUnitDomainSharedModule.csutf-8v
+mD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\AdministrativeUnitErrorCodes.csutf-8l
+cD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\DomainCommonConsts.csutf-8Å
+xD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Localization\AdministrativeUnitResource.csutf-8l
+cD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\BookConsts.csutf-8z
+qD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\EntidadAuspicianteConsts.csutf-8u
+lD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TariffHeadingConsts.csutf-8w
+nD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TariffHierarchyConsts.csutf-8r
+iD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TariffTypeConsts.csutf-8w
+nD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TipoExoneracionConsts.csutf-8é
+ÑD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\AdministrativeDependencyConsts.csutf-8å
+ÇD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\AdministrativeUnitTypeConsts.csutf-8y
+pD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\BankConsts.csutf-8z
+qD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\CityConsts .csutf-8}
+tD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\CurrencyConsts.csutf-8z
+qD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\LevelConsts.csutf-8
+vD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\SignatarioConsts.csutf-8á
+~D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\TipoCuentaBancariaConsts.csutf-8ä
+ÄD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\UnidadAdministrativaConsts.csutf-8¢
+ñD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\obj\Debug\netstandard2.0\.NETStandard,Version=v2.0.AssemblyAttributes.csutf-8™
+ûD:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\obj\Debug\netstandard2.0\Mre.Sb.AdministrativeUnit.Domain.Shared.AssemblyInfo.csutf-8

@@ -1,0 +1,22 @@
+﻿D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\AdministrativeUnitDomainSharedModule.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\AdministrativeUnitErrorCodes.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\DomainCommonConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Localization\AdministrativeUnitResource.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\BookConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\EntidadAuspicianteConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TariffHeadingConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TariffHierarchyConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TariffTypeConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Service\TipoExoneracionConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\AdministrativeDependencyConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\AdministrativeUnitTypeConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\BankConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\CityConsts .cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\CurrencyConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\LevelConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\SignatarioConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\TipoCuentaBancariaConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\UnidadAdministrativa\UnidadAdministrativaConsts.cs
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Localization\AdministrativeUnit\en.json
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\Localization\AdministrativeUnit\es.json
+D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Domain.Shared\FodyWeavers.xml

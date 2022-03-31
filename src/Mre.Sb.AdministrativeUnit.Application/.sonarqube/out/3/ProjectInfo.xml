@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Mre.Sb.AdministrativeUnit.Application</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>baaf9dd9-b2cc-4359-951a-d147c58be666</ProjectGuid>
+  <FullPath>D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Application\Mre.Sb.AdministrativeUnit.Application.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Application\.sonarqube\conf\3\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Application\.sonarqube\out\3\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\MREGITHUB\UnidadAdministrativa\src\Mre.Sb.AdministrativeUnit.Application\.sonarqube\out\3</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netstandard2.0</TargetFramework>
+</ProjectInfo>
