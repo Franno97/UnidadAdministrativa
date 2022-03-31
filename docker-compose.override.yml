@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+  mre.sb.administrativeunit.httpapi.host:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      #- ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ConnectionStrings__Default=Server=sqlserver;Database=Base;User Id=sa;Password=Pass@word;
+      - ConnectionStrings__AbpAuditLogging=Server=sqlserver;Database=Audit;User Id=sa;Password=Pass@word;
+      - ConnectionStrings__AbpIdentityServer=Server=sqlserver;Database=IdentityServer;User Id=sa;Password=Pass@word;
+      - ConnectionStrings__AdministrativeUnit=Server=sqlserver;Database=AdministrativeUnit;User Id=sa;Password=Pass@word;
+      - Redis__Configuration=redis
+    ports:
+      - "8880:80"
+      - "8443:443"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

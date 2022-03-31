@@ -1,0 +1,32 @@
+version: '3.4'
+
+services:
+  mre.sb.administrativeunit.httpapi.host:
+    image: ${DOCKER_REGISTRY-}mresbadministrativeunithttpapihost
+    build:
+      context: .
+      dockerfile: host/Mre.Sb.AdministrativeUnit.HttpApi.Host/Dockerfile
+    depends_on:
+      - redis
+      - sqlserver
+  
+  redis:
+    image: redis:alpine
+    restart: always
+    ports:
+      - "6379:6379"  
+  
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      #- SA_PASSWORD=Pass@word
+      - MSSQL_SA_PASSWORD=Pass@word
+      - ACCEPT_EULA=Y
+    ports:
+       - "1433:1433"
+    #  - "5433:1433"
+    volumes:
+      - dbdata:/var/opt/mssql  
+
+volumes:
+  dbdata: # named volumes can be managed easier using docker-compose      

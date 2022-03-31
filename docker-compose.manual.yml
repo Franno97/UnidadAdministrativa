@@ -1,0 +1,13 @@
+version: '3'
+services:
+
+  mre.sb.administrativeunit-httpapi-host:
+    build:
+      context: .
+      dockerfile: host/Mre.Sb.AdministrativeUnit.HttpApi.Host/Dockerfile
+    ports:
+      - "8443:443"  
+    #depends_on:
+    #  - redis
+      
+      
